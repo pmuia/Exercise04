@@ -1,0 +1,7 @@
+D:\Projects\Techno Brain\Hackathon\Exercise04\Exercise04\obj\Debug\Exercise04.csprojAssemblyReference.cache
+D:\Projects\Techno Brain\Hackathon\Exercise04\Exercise04\obj\Debug\Exercise04.csproj.CoreCompileInputs.cache
+D:\Projects\Techno Brain\Hackathon\Exercise04\Exercise04\bin\Debug\Exercise04.exe.config
+D:\Projects\Techno Brain\Hackathon\Exercise04\Exercise04\bin\Debug\Exercise04.exe
+D:\Projects\Techno Brain\Hackathon\Exercise04\Exercise04\bin\Debug\Exercise04.pdb
+D:\Projects\Techno Brain\Hackathon\Exercise04\Exercise04\obj\Debug\Exercise04.exe
+D:\Projects\Techno Brain\Hackathon\Exercise04\Exercise04\obj\Debug\Exercise04.pdb
